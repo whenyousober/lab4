@@ -12,3 +12,4 @@
 ## Egorova A.R. (zachtest) https://github.com/AlIsa1987-student?tab=repositories
 -[Loginov D.A.](https://github.com/dmitriylog)
 [Saralidze M. R.](https://github.com/margaritasaralidze2006-oss)
+## Korzun A.A https://github.com/whenyousober
